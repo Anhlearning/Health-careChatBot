@@ -36,14 +36,14 @@ Python 3.10
 
 Cài đặt thư viện: pip install -r requirements.txt
 
-Cài đặt Ollama
+- Install [Ollama](https://ollama.com/download)
 
 Tối thiểu 8GB RAM
 
 GPU Nvidia với ít nhất 2GB bộ nhớ riêng
 
 Thiết lập
-Tải bộ dữ liệu (MedQuad) vào thư mục data.
+Tải bộ dữ liệu ([MedQuad]([https://github.com/abachaa/MedQuAD](https://drive.google.com/drive/folders/1-96u0Wu1yfiJD-hwZ1T3_CmII0vFav69?fbclid=IwY2xjawIVfIFleHRuA2FlbQIxMAABHb4zN6TT1g2LWohYzFuUUK_I3WihZlHAytvYYosqCYq0kA3Or00h5902wA_aem_CK_LVlFk1NRjQ08hZNwXJg))) vào thư mục data. ( tạo thư mục data tại thư mục root -> giải nén dataset này và ném hết tất cả các folder giải nén được vào data ) 
 
 Chuẩn bị chỉ mục vector: chạy src/create_index.py.
 
