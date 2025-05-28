@@ -1,4 +1,4 @@
-rợ Lý Y Tế Thông Minh dựa trên LLMs, RAG và Flask
+Trợ Lý Y Tế Thông Minh dựa trên LLMs, RAG và Flask
 Đây là một ứng dụng Web mẫu được viết bằng Flask,
 tích hợp một Chatbot Trợ Lý Y Tế được hỗ trợ bởi
 Mô Hình Ngôn Ngữ Lớn (LLMs) và Kỹ thuật Truy xuất kết hợp sinh (RAG).
